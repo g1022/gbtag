@@ -1,2 +1,0 @@
-# gbtag
-go build tag
